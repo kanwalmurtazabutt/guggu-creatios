@@ -1,0 +1,6 @@
+{
+  "name": "Guggu Creations",
+  "description": "Professional eBook writing, book design, baby journals, memory books, and personalized keepsake book design studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
